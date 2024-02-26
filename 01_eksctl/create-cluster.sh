@@ -2,7 +2,7 @@
 
 # Variables
 CLUSTER_NAME=mundoes-cluster-G4
-AWS_REGION=us-east-2
+AWS_REGION=us-east-1
 
 # Set AWS credentials 
 aws sts get-caller-identity >> /dev/null
